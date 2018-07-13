@@ -1,0 +1,22 @@
+[08-Aug-2015 09:38:30] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/beatify/public_html/ondiguru.com/courses/class.php on line 5
+[08-Aug-2015 09:41:03] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/beatify/public_html/ondiguru.com/courses/class.php on line 5
+[08-Aug-2015 09:41:24] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/beatify/public_html/ondiguru.com/courses/class.php on line 5
+[08-Aug-2015 09:46:12] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/beatify/public_html/ondiguru.com/courses/class.php on line 6
+[08-Aug-2015 09:46:23] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/beatify/public_html/ondiguru.com/courses/class.php on line 6
+[09-Aug-2015 17:40:58] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/courses/collections.php on line 83
+[09-Aug-2015 17:41:26] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/courses/collections.php on line 83
+[09-Aug-2015 17:43:28] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/courses/collections.php on line 83
+[09-Aug-2015 17:48:00] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home1/beatify/public_html/ondiguru.com/courses/collections.php on line 10
+[10-Aug-2015 09:36:19] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/courses/collections.php on line 105
+[10-Aug-2015 09:36:19] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/beatify/public_html/ondiguru.com/courses/collections.php on line 107
+[10-Aug-2015 11:04:59] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/courses/catagory.php on line 16
+[10-Aug-2015 12:41:55] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/courses/class.php on line 18
+[10-Aug-2015 12:42:54] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/courses/class.php on line 18
+[10-Aug-2015 12:43:32] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/courses/class.php on line 18
+[22-Sep-2015 08:09:58] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/courses/class.php on line 18
+[22-Sep-2015 08:18:05] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/courses/class.php on line 18
+[22-Sep-2015 08:18:32] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/courses/class.php on line 18
+[22-Sep-2015 10:04:31] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/beatify/public_html/ondiguru.com/courses/class.php on line 188
+[22-Sep-2015 12:59:39] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/courses/class.php on line 238
+[22-Sep-2015 13:00:13] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/courses/class.php on line 238
+[22-Sep-2015 13:00:37] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/courses/class.php on line 238

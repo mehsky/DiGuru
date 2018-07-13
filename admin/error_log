@@ -1,0 +1,131 @@
+[04-Apr-2015 09:16:08] PHP Warning:  require_once(../includes/php/adminmenu.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/beatify/public_html/ondiguru.com/admin/add_course.php on line 5
+[04-Apr-2015 09:16:08] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../includes/php/adminmenu.php' (include_path='.:/opt/php52/lib/php') in /home1/beatify/public_html/ondiguru.com/admin/add_course.php on line 5
+[04-Apr-2015 10:01:00] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_course.php on line 12
+[04-Apr-2015 10:01:08] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_course.php on line 12
+[04-Apr-2015 10:01:11] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_duration.php on line 11
+[04-Apr-2015 10:01:14] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_course.php on line 12
+[04-Apr-2015 10:02:17] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_course.php on line 12
+[04-Apr-2015 10:02:19] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_course.php on line 12
+[04-Apr-2015 10:33:49] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/add_course.php on line 11
+[04-Apr-2015 10:33:49] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/beatify/public_html/ondiguru.com/admin/add_course.php on line 12
+[04-Apr-2015 10:33:49] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/add_course.php on line 138
+[04-Apr-2015 10:37:16] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_duration.php on line 27
+[04-Apr-2015 10:37:16] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_duration.php on line 13
+[04-Apr-2015 10:37:59] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_duration.php on line 27
+[04-Apr-2015 10:37:59] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_duration.php on line 13
+[04-Apr-2015 10:38:36] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_duration.php on line 26
+[04-Apr-2015 10:38:36] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_duration.php on line 27
+[04-Apr-2015 10:38:36] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_duration.php on line 13
+[04-Apr-2015 10:40:48] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home1/beatify/public_html/ondiguru.com/admin/add_duration.php on line 24
+[04-Apr-2015 10:42:00] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_duration.php on line 29
+[04-Apr-2015 10:42:00] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_duration.php on line 13
+[04-Apr-2015 10:42:48] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_duration.php on line 28
+[04-Apr-2015 10:42:48] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_duration.php on line 13
+[04-Apr-2015 11:28:16] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_duration.php on line 52
+[04-Apr-2015 11:28:16] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_duration.php on line 13
+[04-Apr-2015 11:29:01] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_duration.php on line 52
+[04-Apr-2015 11:29:01] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/add_duration.php on line 13
+[06-Apr-2015 10:14:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/edit_course.php on line 29
+[06-Apr-2015 10:14:57] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/edit_course.php on line 30
+[06-Apr-2015 12:24:07] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 13
+[06-Apr-2015 12:24:07] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 14
+[06-Apr-2015 12:24:07] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 33
+[06-Apr-2015 12:25:22] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 13
+[06-Apr-2015 12:25:22] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 14
+[06-Apr-2015 12:25:22] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 33
+[06-Apr-2015 12:26:26] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 13
+[06-Apr-2015 12:26:26] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 14
+[06-Apr-2015 12:26:26] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 33
+[06-Apr-2015 12:28:11] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 13
+[06-Apr-2015 12:28:11] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 14
+[06-Apr-2015 12:28:11] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 33
+[06-Apr-2015 12:29:14] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 13
+[06-Apr-2015 12:29:14] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 14
+[06-Apr-2015 12:29:14] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 33
+[06-Apr-2015 12:31:56] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 13
+[06-Apr-2015 12:31:56] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 14
+[06-Apr-2015 12:31:56] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 33
+[06-Apr-2015 12:33:23] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 13
+[06-Apr-2015 12:33:23] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 14
+[06-Apr-2015 12:33:23] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 33
+[06-Apr-2015 12:36:12] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 13
+[06-Apr-2015 12:36:12] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 14
+[06-Apr-2015 12:36:12] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 33
+[06-Apr-2015 12:47:51] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 13
+[06-Apr-2015 12:47:51] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 14
+[06-Apr-2015 12:47:51] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 33
+[06-Apr-2015 15:03:10] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 13
+[06-Apr-2015 15:03:10] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 14
+[06-Apr-2015 15:03:10] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 33
+[06-Apr-2015 15:05:40] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 13
+[06-Apr-2015 15:05:40] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 14
+[06-Apr-2015 15:05:40] PHP Warning:  mysqli_close() [<a href='function.mysqli-close'>function.mysqli-close</a>]: Couldn't fetch mysqli in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 33
+[21-Apr-2015 09:26:25] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/manage_catagories.php on line 30
+[21-Apr-2015 09:26:25] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/manage_catagories.php on line 14
+[21-Apr-2015 09:40:54] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/manage_catagories.php on line 115
+[21-Apr-2015 09:41:30] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/manage_catagories.php on line 115
+[21-Apr-2015 09:41:33] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/manage_catagories.php on line 115
+[21-Apr-2015 10:19:30] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/manage_catagories.php on line 54
+[21-Apr-2015 10:19:30] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/manage_catagories.php on line 14
+[21-Apr-2015 10:20:15] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/manage_catagories.php on line 54
+[21-Apr-2015 10:20:15] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/manage_catagories.php on line 14
+[21-Apr-2015 10:20:45] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/manage_catagories.php on line 54
+[21-Apr-2015 10:20:45] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/manage_catagories.php on line 14
+[22-Apr-2015 15:09:55] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/beatify/public_html/ondiguru.com/admin/sub_catagories.php on line 108
+[22-Apr-2015 15:10:30] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/beatify/public_html/ondiguru.com/admin/sub_catagories.php on line 108
+[22-Apr-2015 15:10:30] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/sub_catagories.php on line 154
+[22-Apr-2015 15:11:50] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/beatify/public_html/ondiguru.com/admin/sub_catagories.php on line 108
+[22-Apr-2015 15:12:12] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/beatify/public_html/ondiguru.com/admin/sub_catagories.php on line 108
+[22-Apr-2015 16:35:00] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/sub_catagories.php on line 55
+[22-Apr-2015 16:35:00] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/sub_catagories.php on line 14
+[25-Apr-2015 08:26:06] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/sub_catagories.php on line 55
+[25-Apr-2015 08:26:06] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/sub_catagories.php on line 14
+[25-Apr-2015 08:26:11] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/sub_catagories.php on line 55
+[25-Apr-2015 08:26:11] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/sub_catagories.php on line 14
+[25-Apr-2015 09:26:09] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/edit_course.php on line 197
+[25-Apr-2015 09:42:41] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/edit_course.php on line 47
+[25-Apr-2015 09:43:18] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/edit_course.php on line 47
+[25-Apr-2015 09:43:22] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/edit_course.php on line 47
+[25-Apr-2015 09:43:41] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/edit_course.php on line 47
+[25-Apr-2015 09:45:03] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/edit_course.php on line 47
+[25-Apr-2015 09:45:15] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/edit_course.php on line 47
+[25-Apr-2015 10:44:19] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/edit_course.php on line 315
+[25-Apr-2015 10:45:01] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/edit_course.php on line 316
+[25-Apr-2015 10:47:18] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/sub_catagories.php on line 55
+[25-Apr-2015 10:47:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/sub_catagories.php on line 14
+[30-Apr-2015 14:21:25] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/arch_catagories.php on line 126
+[08-Aug-2015 11:46:21] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 77
+[08-Aug-2015 11:56:00] PHP Warning:  require_once(../../includes/php/header.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 2
+[08-Aug-2015 11:56:00] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../../includes/php/header.php' (include_path='.:/opt/php52/lib/php') in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 2
+[08-Aug-2015 11:56:15] PHP Warning:  require_once(../../includes/php/navmenu.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 45
+[08-Aug-2015 11:56:15] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../../includes/php/navmenu.php' (include_path='.:/opt/php52/lib/php') in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 45
+[08-Aug-2015 11:56:32] PHP Warning:  require_once(../../includes/php/adminmenu.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 91
+[08-Aug-2015 11:56:32] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../../includes/php/adminmenu.php' (include_path='.:/opt/php52/lib/php') in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 91
+[08-Aug-2015 11:56:39] PHP Warning:  require_once(../../includes/php/adminmenu.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 91
+[08-Aug-2015 11:56:39] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../../includes/php/adminmenu.php' (include_path='.:/opt/php52/lib/php') in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 91
+[08-Aug-2015 11:56:42] PHP Warning:  require_once(../../includes/php/adminmenu.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 91
+[08-Aug-2015 11:56:42] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../../includes/php/adminmenu.php' (include_path='.:/opt/php52/lib/php') in /home1/beatify/public_html/ondiguru.com/admin/index.php on line 91
+[21-Sep-2015 09:40:13] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/schedule_class.php on line 154
+[21-Sep-2015 11:19:37] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home1/beatify/public_html/ondiguru.com/admin/schedule_class.php on line 104
+[21-Sep-2015 12:25:34] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home1/beatify/public_html/ondiguru.com/admin/view_classes.php on line 144
+[21-Sep-2015 12:25:34] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/view_classes.php on line 145
+[21-Sep-2015 12:25:37] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home1/beatify/public_html/ondiguru.com/admin/view_classes.php on line 144
+[21-Sep-2015 12:25:37] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/view_classes.php on line 145
+[21-Sep-2015 12:25:39] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home1/beatify/public_html/ondiguru.com/admin/view_classes.php on line 144
+[21-Sep-2015 12:25:39] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/view_classes.php on line 145
+[21-Sep-2015 12:25:41] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home1/beatify/public_html/ondiguru.com/admin/view_classes.php on line 144
+[21-Sep-2015 12:25:41] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/view_classes.php on line 145
+[21-Sep-2015 14:14:49] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/view_classes.php on line 145
+[21-Sep-2015 14:15:08] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/view_classes.php on line 146
+[21-Sep-2015 14:59:13] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/beatify/public_html/ondiguru.com/admin/edit_class.php on line 107
+[27-Sep-2015 09:39:35] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/beatify/public_html/ondiguru.com/includes/php/navmenu.php on line 4
+[27-Sep-2015 09:40:10] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/beatify/public_html/ondiguru.com/includes/php/navmenu.php on line 4
+[27-Sep-2015 09:40:13] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/beatify/public_html/ondiguru.com/includes/php/navmenu.php on line 4
+[27-Sep-2015 09:40:15] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/beatify/public_html/ondiguru.com/includes/php/navmenu.php on line 4
+[27-Sep-2015 09:40:17] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/beatify/public_html/ondiguru.com/includes/php/navmenu.php on line 4
+[27-Sep-2015 09:40:41] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/beatify/public_html/ondiguru.com/includes/php/navmenu.php on line 4
+[27-Sep-2015 09:40:43] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/beatify/public_html/ondiguru.com/includes/php/navmenu.php on line 4
+[27-Sep-2015 09:40:48] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/beatify/public_html/ondiguru.com/includes/php/navmenu.php on line 4
+[27-Sep-2015 09:41:24] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/beatify/public_html/ondiguru.com/includes/php/navmenu.php on line 4
+[27-Sep-2015 09:41:31] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/beatify/public_html/ondiguru.com/includes/php/navmenu.php on line 4
+[27-Sep-2015 09:43:16] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/beatify/public_html/ondiguru.com/includes/php/navmenu.php on line 4
